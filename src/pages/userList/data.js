@@ -1,0 +1,42 @@
+export const rows = [
+  {
+    id: 1,
+    user: "Jon Snow",
+    avatar: "profile.jpg",
+    email: "example@example.com",
+    status: "active",
+    transaction: "$120",
+  },
+  {
+    id: 2,
+    user: "Jon Snow",
+    avatar: "profile.jpg",
+    email: "example@example.com",
+    status: "active",
+    transaction: "$120",
+  },
+  {
+    id: 3,
+    user: "Jon Snow",
+    avatar: "profile.jpg",
+    email: "example@example.com",
+    status: "active",
+    transaction: "$120",
+  },
+  {
+    id: 4,
+    user: "Jon Snow",
+    avatar: "profile.jpg",
+    email: "example@example.com",
+    status: "active",
+    transaction: "$120",
+  },
+  {
+    id: 5,
+    user: "Jon Snow",
+    avatar: "profile.jpg",
+    email: "example@example.com",
+    status: "active",
+    transaction: "$120",
+  },
+];
