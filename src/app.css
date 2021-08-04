@@ -6,3 +6,11 @@
 .others{
     flex: 5;
 }
+
+.link{
+    text-decoration: none;
+    color: #555;
+}
+
+
+
