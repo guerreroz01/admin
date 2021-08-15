@@ -15,6 +15,7 @@ export default function Home() {
         title={"Sales Analytics"}
         dataKey="Active User"
       />
+
       <div className="homeWidgets">
         <WidgetSm />
         <WidgetLg />
